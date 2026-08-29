@@ -1,0 +1,11 @@
+.dart_tool/
+.packages
+.pub/
+build/
+android/.gradle/
+android/local.properties
+android/key.properties
+android/app/*.jks
+*.iml
+.idea/
+.vscode/
